@@ -6,5 +6,5 @@ permalink: /projects/
 
 ## Featured Projects
 - 🚀 Aerospace modeling & simulation work
-- 🏋️ Gym startup plan: *Premier Athlete*
+- 🖥️ CAD models and mechanical design projects
 - 📊 Data visualization & optimization projects

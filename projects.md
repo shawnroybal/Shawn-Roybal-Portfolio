@@ -5,6 +5,6 @@ permalink: /projects/
 ---
 
 ## Featured Projects
-- 🚀 Aerospace modeling & simulation work
-- 🖥️ CAD models and mechanical design projects
-- 📊 Data visualization & optimization projects
+- 🚀 [Aerospace modeling & simulation work](https://github.com/yourusername/aerospace-sim)  
+- 🖥️ [CAD models and mechanical design projects](https://github.com/yourusername/cad-models)  
+- 📊 [Data visualization & optimization projects](https://github.com/yourusername/data-viz)  
